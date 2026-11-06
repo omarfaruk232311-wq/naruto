@@ -7,5 +7,18 @@
     "banner-1793927966558-1210.jpg",
     "banner-1793928730203-5307.jpg"
   ],
-  "quick": null
+  "quick": [
+    {
+      "label": "Telegram channel",
+      "url": "https://t.me/omartopu"
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ]
 }
